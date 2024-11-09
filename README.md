@@ -16,5 +16,4 @@ Optimizers:
 
 ![image](https://github.com/user-attachments/assets/bcc6a3b3-6740-4e01-ba19-94b93d80a4e6)
 
-
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/190a08fa-aa2e-4138-8a5c-85f2f1c864b8)

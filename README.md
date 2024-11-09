@@ -1,5 +1,11 @@
 # Hindi-MNIST-Handwritten-Digit-Classification
 Develop a CNN for MNIST  handwritten digit classification
+
+a. Import the necessary libraries 
+b. Load the data and preprocess data 
+c. Build CNN model 
+d. Evaluate your model on test set 
+
 https://www.kaggle.com/datasets/imbikramsaha/hindi-mnist/data
 
 results from question 1 and question 2. 
